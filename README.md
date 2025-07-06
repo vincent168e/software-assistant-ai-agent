@@ -2,10 +2,10 @@
 
 ## Overview
 
-Software Assistant AI Agent is a Python-based tool designed to assist with software development tasks using OpenAI's language models. The agent leverages the LangChain framework to provide intelligent code assistance, documentation generation, and development workflow automation. It's particularly useful for developers looking to integrate AI-powered assistance into their coding process.
+Software Assistant AI Agent is a Python-based tool designed to assist with software development tasks using OpenAI's language models. The agent leverages the LangChain framework to provide suggestions on coding tools to used in development. It's particularly useful for developers looking to integrate AI-powered assistance into their coding process.
 
 Key features include:
-- Structured workflows using LangGraph for complex task handling
+- Structured workflows using LangGraph for workflow handling
 - Integration with OpenAI's models for intelligent code suggestions
 
 ## Installation
