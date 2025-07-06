@@ -48,5 +48,5 @@ def main():
                 print("-" * 40)
                 print(result.analysis)
 
-    if __name__ == "__main__":
-        main()
+if __name__ == "__main__":
+    main()
